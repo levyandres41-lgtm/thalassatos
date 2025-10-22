@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Términos de Thalassa 🌊</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; background-color: #f2f9ff; color: #333; }
+    h1 { color: #0077b6; }
+  </style>
+</head>
+<body>
+  <h1>Términos de uso de Thalassa 🌊</h1>
+  <p>Thalassa es un bot de acompañamiento emocional. No sustituye ayuda profesional ni ofrece diagnóstico o terapia. 
+  Si atraviesas una crisis, contacta con un profesional de salud mental o línea de emergencia.</p>
+
+  <p>El uso de Thalassa implica la aceptación de que la interacción es con un modelo de lenguaje artificial y no con una persona cualificada en salud mental.</p>
+  <p>Toda la información compartida con el bot es tratada con la máxima confidencialidad, pero no está sujeta a la ley de secreto profesional médico. Por favor, sé consciente de esto al compartir información sensible.</p>
+  <p>Nos reservamos el derecho de modificar estos términos en cualquier momento. La continuación del uso del bot constituye la aceptación de dichas modificaciones.</p>
+  <p>Thalassa guarda memoria de tus interacciones con ella, lo que quiere decir que recordará interacciones pasadas con ella. Esta memoria se limpia periódicamente con tal de mantener la máxima confidencialidad con los usuarios.
+
+  <p style="margin-top: 30px; font-style: italic;">Este documento es solo de lectura e informativo. No requiere ninguna acción por parte del usuario.</p>
+  </form>
+</body>
+</html>
